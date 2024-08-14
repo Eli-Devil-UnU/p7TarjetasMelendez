@@ -16,3 +16,6 @@ Se realizan varios ejemplos de card con sus propiedades
 ## Color de la tarjeta, texto, logo y borde
 ![image](https://github.com/user-attachments/assets/70ed5699-cfd1-48b1-a2c8-b3cb4647f55e)
 
+## Color de la tarjeta, texto, logo, borde y imagencard
+![image](https://github.com/user-attachments/assets/9a216dd2-d502-4e19-8d4b-f3ea4caa788e)
+
